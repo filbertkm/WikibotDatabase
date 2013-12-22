@@ -1,0 +1,13 @@
+{
+	"name": "wikibot/database",
+	"type": "library",
+	"description": "Database library"
+	"keywords": [
+		"database"
+	],
+	"autoload": {
+		"psr-0": {
+			"Wikibot\\Database\\": "src"
+		}
+	}
+}
